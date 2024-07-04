@@ -3,4 +3,4 @@
 安装依赖 npm i   
 点击工具栏中的运行按钮运行项目  
 游览器打开项目后请按F12将游览器方式改为手机端，界面改为平板模式  
-![image](https://github.com/Nnnnakiri/-HD/blob/master/static/%E5%8F%96%E6%B6%88.png)
+
